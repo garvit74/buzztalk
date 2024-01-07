@@ -1,4 +1,4 @@
-# [**BuzzTalk**]
+# **BuzzTalk**
 Chat app using MERN and Socket.io
 
 
