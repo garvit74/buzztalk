@@ -2,8 +2,6 @@
 Chat app using MERN and Socket.io
 
 
-[Visit&nbsp;the&nbsp;live&nbsp;website](https://chatmate-5x3f.onrender.com/)
-
 ---
 ## Features
 - Real Time Message sending using socket.io
