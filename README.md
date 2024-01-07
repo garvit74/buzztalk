@@ -54,5 +54,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 Runs the back-end server app in the development mode.<br>
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser. Please note that the server requires an active instance of the **MongoDB database**. Either provide a _MongoDB atlas_ link in the `URI` environment variable, or use a local database, by placing its DATABASE in the same.
 
+![image](https://github.com/garvit74/buzztalk/assets/63715496/f08f59e3-1248-4090-8a43-b5d165e40efa)
+![image](https://github.com/garvit74/buzztalk/assets/63715496/7043b298-ca01-419e-8eb1-f5ab40e4e563)
+
+
+
 
 ---
