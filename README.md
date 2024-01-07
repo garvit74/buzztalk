@@ -1,4 +1,4 @@
-# [**Chatmate**](https://chatmate-5x3f.onrender.com/)
+# [**BuzzTalk**]
 Chat app using MERN and Socket.io
 
 
@@ -53,11 +53,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Runs the back-end server app in the development mode.<br>
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser. Please note that the server requires an active instance of the **MongoDB database**. Either provide a _MongoDB atlas_ link in the `URI` environment variable, or use a local database, by placing its DATABASE in the same.
-
-## Application Screenshots
-![image](https://github.com/Kunal-Vijay/Chatmate/assets/79903746/c312f27e-3840-4057-b44f-15751a811fd4)
-![image](https://github.com/Kunal-Vijay/Chatmate/assets/79903746/6ab045fa-0c51-469f-8d90-ce982cea6588)
-![image](https://github.com/Kunal-Vijay/Chatmate/assets/79903746/50a23c10-43d3-464c-a471-1d24f5e1e6f6)
 
 
 ---
